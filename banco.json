@@ -1,0 +1,22 @@
+{
+  "Vagas": [
+    {
+      "cargo": "gerente",
+      "salário": 2100,
+      "quantidade": 10,
+      "id": 1
+    },
+    {
+      "cargo": "Secretaria",
+      "salário": 1500,
+      "quantidade": 5,
+      "id": 2
+    },
+    {
+      "cargo": "Atendente",
+      "salário": 1250,
+      "quantidade": 25,
+      "id": 3
+    }
+  ]
+}
